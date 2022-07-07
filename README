@@ -1,3 +1,9 @@
+Additions:
+Document the following:
+include/sched.h
+kernel/sched/
+            - core.c
+            - fair.c
 Linux kernel
 ============
 
